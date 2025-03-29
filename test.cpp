@@ -7,5 +7,7 @@ int main(void){
 
     cout << "qwer";
 
+    cout << "zxcv";
+
     return 0;
 }
